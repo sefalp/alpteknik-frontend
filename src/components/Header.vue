@@ -232,6 +232,10 @@ export default {
     flex: 2 2 35%;
 }
 
+#but{
+    font-size: 2rem;
+}
+
 .costumer-service .user-entrance{
     color: white;
     text-decoration: none;
@@ -408,7 +412,7 @@ a {
     grid-area: header;
     position: fixed;
     width: 100%;
-    height: 3rem;
+    height: 3.2rem;
     background-color:  rgb(21, 136, 136);
     display: flex;
     justify-content: space-around;
@@ -423,7 +427,7 @@ a {
 }
 
 .burger div{
-    width: 25px;
+    width: 28px;
     height: 0.16rem;
     background-color: white;
     margin: 5px 5px;
@@ -452,6 +456,10 @@ a {
     justify-content: center;
     align-items: center;
     flex: 2 2 35%;
+}
+
+#but{
+    font-size: 1.8rem;
 }
 
 .costumer-service .user-entrance{

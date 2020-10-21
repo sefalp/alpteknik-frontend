@@ -318,7 +318,7 @@ img.msg-box{
     background: #FFEFD5 none repeat scroll 0 0;
     border-radius: 10px;
     color: #646464;
-    font-size: 10px;
+    font-size: 12px;
     margin: 0;
     padding: 5px 10px 5px 12px;
     width: 100%;
@@ -328,7 +328,7 @@ img.msg-box{
     background: #32CD32 none repeat scroll 0 0;
     color: #fff;
     border-radius: 10px;
-    font-size: 14px;
+    font-size: 12px;
     margin: 0;
     padding: 5px 10px 5px 12px;
     width: 100%;
