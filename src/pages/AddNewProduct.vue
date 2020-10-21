@@ -139,7 +139,7 @@ export default {
     background-color: rgb(17, 147, 194)
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
 
 .add-product-form{
   position: fixed;

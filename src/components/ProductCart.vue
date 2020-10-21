@@ -127,7 +127,7 @@ export default {
     margin-bottom: 0;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
 
 .product-card {
   font-family:'Poppins', sans-serif;   

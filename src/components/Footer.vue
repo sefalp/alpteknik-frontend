@@ -283,7 +283,7 @@ img.msg-box{
     border-radius: 20px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
 .live-communication-icons{
 
     grid-area: footer;

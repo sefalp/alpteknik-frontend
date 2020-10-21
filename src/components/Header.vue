@@ -344,7 +344,7 @@ a {
      outline: none;
      box-shadow: none;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
 
     
 .navLinks {

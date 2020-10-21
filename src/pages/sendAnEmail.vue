@@ -345,7 +345,7 @@ font-size: 2rem;
 /*------------------------------------------------------------------
 [ Responsive ]*/
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   .contact1-pic {
     width: 33.5%;
   }
@@ -355,7 +355,7 @@ font-size: 2rem;
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1240px) {
 
   .contact1-pic {
     width: 35%;
@@ -366,7 +366,7 @@ font-size: 2rem;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
 
   .contact1-pic {
     display: none;
@@ -438,7 +438,7 @@ font-size: 2rem;
   opacity: 1;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1240px) {
   .alert-validate::before {
     visibility: visible;
     opacity: 1;
