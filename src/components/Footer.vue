@@ -100,7 +100,8 @@ export default {
 
 .footer{
     position: fixed;
-
+    display: flex;
+    align-items: center;
 }
 
 
@@ -286,6 +287,7 @@ img.msg-box{
 @media (max-width: 1500px) {
 .live-communication-icons{
 
+    
     grid-area: footer;
     font-size: 1.2rem;
     color: white;
@@ -293,13 +295,12 @@ img.msg-box{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 1rem;
     position: fixed;
     width: 100%;
     bottom: 0px;
     height: 2.7rem;
     padding: 0 15rem;
-    padding-top: .7rem; 
+
 }
 
 .message-page{
