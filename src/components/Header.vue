@@ -423,10 +423,10 @@ a {
 }
 
 .burger div{
-    width: 20px;
+    width: 25px;
     height: 0.16rem;
     background-color: white;
-    margin: 4px 4px;
+    margin: 5px 5px;
     transition: all 0.3s ease;
 }
 
